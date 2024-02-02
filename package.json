@@ -1,0 +1,10 @@
+{
+    "name": "rs-school-file-manager",
+    "version": "1.0.0",
+    "description": "File Manager project for rs-school",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "type": "module"
+}
